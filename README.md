@@ -56,7 +56,7 @@ Raw vakues can be converted to integers like this:
 ```
 ## Toolkit
 
-The toolkit has methods for common functions used with thermal images.
+The toolkit has methods for common functions used with thermal images. Note: this code / methods are segmented from the parsed data to ensure a separation between the content of the FlirImage and derived objects and outputs.
 
 Creating images:
 
